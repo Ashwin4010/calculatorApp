@@ -8,7 +8,7 @@ const Calculator = ({ calculatorFunc, value, allClear, del, resultFunc }) => {
           <input
             value={value}
             type="text"
-            className="text-3xl font-bold w-full py-6 bg-transparent outline-none text-right pr-4"
+            className="text-3xl font-bold w-full py-6 bg-transparent shadow-xl rounded-lg outline-none text-right pr-4"
           />
         </div>
 
