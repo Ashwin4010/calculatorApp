@@ -23,7 +23,7 @@ const Functions = ({ value, setValue }) => {
       const result = eval(value);
       setValue(result.toString());
     } catch (err) {
-      console.log("ERROR");
+      setValue("ERROR");
     }
   };
 
