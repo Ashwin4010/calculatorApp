@@ -14,6 +14,8 @@ pnpm dev
 bun dev
 ```
 
+![calculator](https://github.com/sefadas/calculatorApp/assets/123482003/dfd70cee-d12a-4c7e-9cc3-15161ae0f0b3)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
